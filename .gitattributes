@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Ecommerce[[:space:]]TA.zip filter=lfs diff=lfs merge=lfs -text
+ecommerceta-local.sql filter=lfs diff=lfs merge=lfs -text
+Ecommerce-TA.zip filter=lfs diff=lfs merge=lfs -text
