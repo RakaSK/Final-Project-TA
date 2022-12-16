@@ -3,3 +3,5 @@
 Ecommerce[[:space:]]TA.zip filter=lfs diff=lfs merge=lfs -text
 ecommerceta-local.sql filter=lfs diff=lfs merge=lfs -text
 Ecommerce-TA.zip filter=lfs diff=lfs merge=lfs -text
+Backend_E_commerce_TA filter=lfs diff=lfs merge=lfs -text
+Ecommerce_TA filter=lfs diff=lfs merge=lfs -text
