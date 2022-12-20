@@ -1,3 +1,8 @@
+oleh 
+Raka Surya Kusuma
+M3119074
+D3 Teknik Informatika UNS 2019
+
 Deskripsi Produk
 
 Produk yang dihasilkan adalah Implementasi Aplikasi Online Shop Berbasis Mobile yang menggunakan framework flutter dimana pengunjung dapat melakukan pembelian produk melalui aplikasi online shop pada smartphone mereka. 
