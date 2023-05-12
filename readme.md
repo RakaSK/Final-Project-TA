@@ -1,7 +1,7 @@
 oleh </br>
-Raka Surya Kusuma
-M3119074
-D3 Teknik Informatika UNS 2019
+Raka Surya Kusuma </br>
+M3119074 </br>
+D3 Teknik Informatika UNS 2019 </br>
 
 # Deskripsi Produk
 
