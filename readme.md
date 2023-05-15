@@ -11,8 +11,9 @@ Produk tersebut nantinya akan digunakan sebagai sarana dalam melakukan strategi 
 
 # Screenshot Project
 
-![Screenshot_1658899355](https://github.com/RakaSK/Final-Project-TA/assets/58557156/4827fd83-7bd6-4736-a694-c2fe945d48a3)
-![Screenshot_20221121-233259](https://github.com/RakaSK/Final-Project-TA/assets/58557156/94efdafd-3943-4a3f-9ca6-f3c8a63cbe19)
+![Screenshot_1658899355](https://github.com/RakaSK/Final-Project-TA/assets/58557156/4827fd83-7bd6-4736-a694-c2fe945d48a3) ![Screenshot_20221121-233259](https://github.com/RakaSK/Final-Project-TA/assets/58557156/94efdafd-3943-4a3f-9ca6-f3c8a63cbe19)
+
+
 ![Screenshot_20221121-233313](https://github.com/RakaSK/Final-Project-TA/assets/58557156/4b21611f-7751-432f-8815-c3fc2db9c60b)
 ![Screenshot_20221121-233409](https://github.com/RakaSK/Final-Project-TA/assets/58557156/896f285a-3a2b-45ae-85bd-215b218a4361)
 ![Screenshot_20221121-233419](https://github.com/RakaSK/Final-Project-TA/assets/58557156/0a594d4a-150e-458c-a21e-a446563692f4)
